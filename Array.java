@@ -30,6 +30,7 @@ public class Array{
         int x = sc.nextInt();
 
          // output
+         // traversing array
         for(int i = 0; i<numbers.length; i++){
           if(numbers[i] == x){
             System.out.println("X found at index: " + i);
